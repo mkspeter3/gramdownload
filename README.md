@@ -1,4 +1,4 @@
-#Downloading Instagram Profile picture in HD
+# Downloading Instagram Profile picture in HD
 
-##Download Instagram Profile Pictures
+## Download Instagram Profile Pictures
 
