@@ -16,8 +16,8 @@ def instagramProfile(name):
     rawText = r[start + 21:]
     end = rawText.index('"')
     instUrl = rawText[:end]
-    newUrl = instUrl.replace("\\u0026", "&")
-    return newUrl
+    newUrl_address = instUrl.replace("\\u0026", "&")
+    return newUrl_address
 
 if __name__ == "__main__":
     app.run()
